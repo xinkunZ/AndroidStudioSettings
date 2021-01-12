@@ -22,10 +22,10 @@
     <mask>ScrRetailMgr.java</mask>
     <mask>*import.java</mask>
     <mask>*.kt</mask>
-    <mask>*.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>ClientMgr*</mask>
+    <mask>*.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
