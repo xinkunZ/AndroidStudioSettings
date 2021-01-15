@@ -42,6 +42,7 @@
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/deputy_payment_pop_view.xml" value="0.2707231040564374" />
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/deputy_second_layout.xml" value="0.2707231040564374" />
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/dialog_account_pay.xml" value="0.23984375" />
+        <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/dialog_auth_spos_register.xml" value="0.3067708333333333" />
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/dialog_base_sweet.xml" value="0.2222222222222222" />
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/dialog_base_top.xml" value="0.3333333333333333" />
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/dialog_card_query.xml" value="0.2977777777777778" />
@@ -53,7 +54,7 @@
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/direct_receive_view_fragment.xml" value="0.25970017636684306" />
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/drink_goods_item.xml" value="0.29270833333333335" />
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/drink_goods_item_group.xml" value="1.3333333333333333" />
-        <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/drink_goods_sale_dialog.xml" value="0.40437158469945356" />
+        <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/drink_goods_sale_dialog.xml" value="0.4444444444444444" />
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/drinks_product_customize_dialog.xml" value="0.4444444444444444" />
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/drinks_product_customize_item.xml" value="0.3067708333333333" />
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/drinks_product_materiel_item.xml" value="0.29270833333333335" />
