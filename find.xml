@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory 'C:\JAVA\LocalRepository\.gradle\caches\modules-2\files-2.1\com.hd123.hdpos.component\pos-crm-api\1.17-SNAPSHOT\f3a9bae1cd7b167aa915318e3ba02555e3ff006c\pos-crm-api-1.17-SNAPSHOT.jar [Gradle: com.hd123.hdpos.component:pos-crm-api:1.17-SNAPSHOT]'" />
+    <option name="defaultScopeName" value="Directory 'C:\JAVA\LocalRepository\.gradle\caches\modules-2\files-2.1\com.hd123.hdpos.component\pos-crm-api\1.17-SNAPSHOT\f3a9bae1cd7b167aa915318e3ba02555e3ff006c\pos-crm-api-1.17-SNAPSHOT.jar [Gradle: com.hd123.hdpos.component:pos-crm-api:1.17-SNAPSHOT]'" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\JAVA\LocalRepository\.gradle\caches\modules-2\files-2.1\com.hd123.hdpos.component\pos-crm-api\1.17-SNAPSHOT\f3a9bae1cd7b167aa915318e3ba02555e3ff006c\pos-crm-api-1.17-SNAPSHOT.jar [Gradle: com.hd123.hdpos.component:pos-crm-api:1.17-SNAPSHOT]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
