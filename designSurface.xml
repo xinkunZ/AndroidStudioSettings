@@ -134,7 +134,7 @@
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/dialog_dft_pay.xml" value="0.1" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/dialog_fail.xml" value="0.17239583333333333" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/dialog_redeem_by_product.xml" value="0.25970017636684306" />
-        <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/dialog_sale_settle.xml" value="0.25970017636684306" />
+        <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/dialog_sale_settle.xml" value="0.2707231040564374" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/dialog_store_inspection.xml" value="0.1" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/dialog_store_inspection_history.xml" value="0.1" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/drink_goods_item.xml" value="0.8888888888888888" />
@@ -154,6 +154,7 @@
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/item_product_inventory_query.xml" value="0.1" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/item_product_price_adjust_list.xml" value="0.1" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/item_sale_more_menu.xml" value="0.3067708333333333" />
+        <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/item_sale_settle_pay_term.xml" value="0.2707231040564374" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/item_sale_shortcut_sku.xml" value="0.2418478260869565" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/item_store_inspection_list.xml" value="0.1" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/layout_state_loading_default.xml" value="0.17239583333333333" />
