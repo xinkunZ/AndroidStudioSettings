@@ -136,6 +136,8 @@
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/layout/widget_page_bar.xml" value="0.2707231040564374" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/bg_left_top_tag.xml" value="0.321875" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/bg_right_top_tag.xml" value="0.321875" />
+        <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/bg_toast.xml" value="0.2462962962962963" />
+        <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/cutting_ic_toast_success_green.xml" value="0.2462962962962963" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/activity_auth_login.xml" value="0.30978260869565216" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/csp_balancepay_dialog.xml" value="0.31979166666666664" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/dialog_base_sweet.xml" value="0.2328125" />
@@ -176,6 +178,8 @@
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/selector_page.xml" value="0.31979166666666664" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/selfpos_helper_fragment.xml" value="0.3333333333333333" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/widget_number_view.xml" value="0.3067708333333333" />
+        <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/widget_toast.xml" value="0.2636752136752137" />
+        <entry key="..\:/Workspace/APP/temp/apos/ktx-common/src/main/res/layout/widget_toast.xml" value="0.4444444444444444" />
       </map>
     </option>
   </component>
