@@ -121,7 +121,7 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="trykt" value="try{&#10;  $END$&#10;}catch(e:Exception){&#10;  logger.error(e);&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="trykt" value="try{&#10;  $END$&#10;}catch(e:Exception){&#10;  logger.error(e);&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
