@@ -126,4 +126,9 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="logkt" value="private val logger = org.apache.log4j.Logger.getLogger(this::class.java);&#10;" description="log4j for kotlin" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
