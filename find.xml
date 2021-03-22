@@ -22,11 +22,11 @@
     <mask>*import.java</mask>
     <mask>*.kt</mask>
     <mask>ClientMgr*</mask>
-    <mask>*.java</mask>
     <mask>*.jft</mask>
     <mask>*.gradle</mask>
     <mask>*dialog.*</mask>
     <mask>*.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
