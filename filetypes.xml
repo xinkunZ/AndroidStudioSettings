@@ -9,6 +9,7 @@
       <mapping ext="jft" type="PLAIN_TEXT" />
       <mapping ext="debug" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="gradler" type="PLAIN_TEXT" />
       <mapping pattern="split" type="XML" />
