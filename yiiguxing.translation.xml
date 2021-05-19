@@ -1,0 +1,18 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Elapsed Time" />
+      <item value="run In Elapsed" />
+    </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1620808968924" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+  </component>
+</application>
