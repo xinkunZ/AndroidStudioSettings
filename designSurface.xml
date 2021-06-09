@@ -173,9 +173,11 @@
         <entry key="..\:/Workspace/APP/apos/modules/value-add/src/main/res/layout/dialog_validity_print.xml" value="0.28225806451612906" />
         <entry key="..\:/Workspace/APP/apos/modules/value-add/src/main/res/layout/dialog_validity_print_item.xml" value="0.40803108808290156" />
         <entry key="..\:/Workspace/APP/temp/apos/app-base/src/main/res/drawable/bg_login_eye.xml" value="0.3229166666666667" />
+        <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/bg_ceceef6_5.xml" value="0.3229166666666667" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/bg_left_top_tag.xml" value="0.321875" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/bg_right_top_tag.xml" value="0.321875" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/bg_toast.xml" value="0.2462962962962963" />
+        <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/bg_voucher_remind.xml" value="0.3229166666666667" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/cutting_ic_eye_show.xml" value="0.3229166666666667" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/cutting_ic_toast_success_green.xml" value="0.2462962962962963" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/activity_auth_login.xml" value="0.30978260869565216" />
@@ -220,7 +222,13 @@
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/widget_number_view.xml" value="0.3067708333333333" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/widget_toast.xml" value="0.2636752136752137" />
         <entry key="..\:/Workspace/APP/temp/apos/ktx-common/src/main/res/layout/widget_toast.xml" value="0.4444444444444444" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/report/src/main/res/layout/fragment_product_inventory_query.xml" value="0.28351449275362317" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/report/src/main/res/layout/report_online_sale_fragment.xml" value="0.28351449275362317" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/dialog_sale_category_product.xml" value="0.171875" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/fragment_product_price_adjust_list.xml" value="0.28351449275362317" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/input_gifts_dialog.xml" value="0.28351449275362317" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/item_dialog_redeem.xml" value="0.21557971014492755" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/online_sale_list_fragment.xml" value="0.28351449275362317" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/store-busi/src/main/res/layout/pg_recycle_order_edit_fragment.xml" value="0.375" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/store-busi/src/main/res/layout/pg_recycle_order_edit_item.xml" value="0.1" />
         <entry key="..\:/Workspace/PrintDemoHaidingUsb/app/src/main/res/layout/activity_main.xml" value="0.3078125" />
