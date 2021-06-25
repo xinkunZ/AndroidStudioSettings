@@ -19,8 +19,12 @@
         <entry key="..\:/Workspace/APP/WinPOS_APP_1.0.14/temp/app/src/main/res/layout/activity_print_barcode.xml" value="0.2833333333333333" />
         <entry key="..\:/Workspace/APP/WinPOS_APP_1.0.14/temp/app/src/main/res/layout/activity_print_bitmap.xml" value="0.4" />
         <entry key="..\:/Workspace/APP/WinPOS_APP_1.0.14/temp/app/src/main/res/layout/activity_testbutton.xml" value="0.4444444444444444" />
+        <entry key="..\:/Workspace/APP/apos/app-base/src/main/res/drawable/bg_cashier_arrive.xml" value="0.309375" />
         <entry key="..\:/Workspace/APP/apos/app-base/src/main/res/drawable/bg_drink_dialog_item.xml" value="0.18203125" />
         <entry key="..\:/Workspace/APP/apos/app-base/src/main/res/drawable/btn_global_frame_gray.xml" value="0.4444444444444444" />
+        <entry key="..\:/Workspace/APP/apos/app-base/src/main/res/drawable/round_default.xml" value="0.309375" />
+        <entry key="..\:/Workspace/APP/apos/app-base/src/main/res/drawable/round_select.xml" value="0.309375" />
+        <entry key="..\:/Workspace/APP/apos/app-base/src/main/res/drawable/txt_btn_light_bule.xml" value="0.309375" />
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/drawable/bg_account_pay_tab.xml" value="0.210625" />
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/drawable/bg_account_pay_tab_selected.xml" value="0.210625" />
         <entry key="..\:/Workspace/APP/apos/app/src/main/res/drawable/bg_announcement_item.xml" value="0.210625" />
