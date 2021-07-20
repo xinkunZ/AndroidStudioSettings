@@ -247,12 +247,14 @@
         <entry key="..\:/Workspace/APP/temp/apos/modules/device-system/src/main/res/layout/device_system_state_fragment.xml" value="0.375" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/report/src/main/res/layout/fragment_product_inventory_query.xml" value="0.28351449275362317" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/report/src/main/res/layout/report_online_sale_fragment.xml" value="0.28351449275362317" />
-        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_detail_dialog.xml" value="0.27109375" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_detail_dialog.xml" value="0.201171875" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_detail_payment_item.xml" value="0.27109375" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_kill_confirm_payment_item.xml" value="0.27109375" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_list_fragment.xml" value="0.25" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_list_item.xml" value="0.27109375" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/dialog_sale_category_product.xml" value="0.171875" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/dialog_tran_detail.xml" value="0.24043715846994534" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/dialog_tran_roll_back_confirm.xml" value="0.1762295081967213" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/fragment_product_price_adjust_list.xml" value="0.28351449275362317" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/fragment_tran_main.xml" value="0.2322623828647925" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/input_gifts_dialog.xml" value="0.28351449275362317" />
