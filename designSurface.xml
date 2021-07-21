@@ -6,6 +6,7 @@
         <entry key="..\:/JAVA/jdks/android/platforms/android-28/data/res/layout/simple_spinner_item.xml" value="0.4444444444444444" />
         <entry key="..\:/Users/zhang/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.4444444444444444" />
         <entry key="..\:/Users/zhang/AndroidStudioProjects/MyApplication/app/src/main/res/layout/content_main.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/zhang/Documents/WeChat Files/zxk844/FileStorage/File/2021-06/print-sdk-demo/app/src/main/res/layout/activity_main.xml" value="0.1515625" />
         <entry key="..\:/Workspace/APP/BlueToothGpsdkDemo/app/src/main/res/layout/activity_main.xml" value="0.23097826086956522" />
         <entry key="..\:/Workspace/APP/GpsdkDemo/app/src/main/res/layout/activity_main.xml" value="0.21920289855072464" />
         <entry key="..\:/Workspace/APP/PrintDemoHaidingUsb/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
@@ -189,7 +190,10 @@
         <entry key="..\:/Workspace/APP/apos/modules/store-busi/src/main/res/layout/store_product_gift_edit_item.xml" value="0.2234375" />
         <entry key="..\:/Workspace/APP/apos/modules/value-add/src/main/res/layout/dialog_validity_print.xml" value="0.28225806451612906" />
         <entry key="..\:/Workspace/APP/apos/modules/value-add/src/main/res/layout/dialog_validity_print_item.xml" value="0.40803108808290156" />
+        <entry key="..\:/Workspace/APP/temp/apos/app-base/src/main/res/drawable/bg_filter_select.xml" value="0.282421875" />
+        <entry key="..\:/Workspace/APP/temp/apos/app-base/src/main/res/drawable/bg_filter_unselect.xml" value="0.282421875" />
         <entry key="..\:/Workspace/APP/temp/apos/app-base/src/main/res/drawable/bg_login_eye.xml" value="0.3229166666666667" />
+        <entry key="..\:/Workspace/APP/temp/apos/app-base/src/main/res/drawable/cutting_empty_content.xml" value="0.282421875" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/bg_ceceef6_5.xml" value="0.3229166666666667" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/bg_left_top_tag.xml" value="0.321875" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/drawable/bg_right_top_tag.xml" value="0.321875" />
@@ -240,19 +244,35 @@
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/widget_number_view.xml" value="0.3067708333333333" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/widget_toast.xml" value="0.2636752136752137" />
         <entry key="..\:/Workspace/APP/temp/apos/ktx-common/src/main/res/layout/widget_toast.xml" value="0.4444444444444444" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/device-system/src/main/res/layout/device_system_state_fragment.xml" value="0.375" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/report/src/main/res/layout/fragment_product_inventory_query.xml" value="0.28351449275362317" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/report/src/main/res/layout/report_online_sale_fragment.xml" value="0.28351449275362317" />
-        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_list_fragment.xml" value="0.1" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_detail_dialog.xml" value="0.2322623828647925" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_detail_payment_item.xml" value="0.27109375" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_detail_product_item.xml" value="0.2578551912568306" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_kill_confirm_payment_item.xml" value="0.27109375" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_list_fragment.xml" value="0.25" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_list_item.xml" value="0.27109375" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/dialog_sale_category_product.xml" value="0.171875" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/dialog_tran_detail.xml" value="0.24043715846994534" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/dialog_tran_roll_back_confirm.xml" value="0.1762295081967213" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/dialog_uv_suggest_retail.xml" value="0.27109375" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/fragment_product_price_adjust_list.xml" value="0.28351449275362317" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/fragment_tran_main.xml" value="0.2322623828647925" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/input_gifts_dialog.xml" value="0.28351449275362317" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/item_dialog_redeem.xml" value="0.21557971014492755" />
-        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/online_sale_list_fragment.xml" value="0.28351449275362317" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/item_tran_main.xml" value="0.27109375" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/online_sale_list_fragment.xml" value="0.1953125" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/online_sale_list_item.xml" value="0.27109375" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/sale_list_fragment.xml" value="0.44166666666666665" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/sale_message_item.xml" value="0.1" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/tran_main_fragment.xml" value="0.5" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/store-busi/src/main/res/layout/direct_send_order_list_item.xml" value="0.1765625" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/store-busi/src/main/res/layout/pg_recycle_order_edit_fragment.xml" value="0.375" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/store-busi/src/main/res/layout/pg_recycle_order_edit_item.xml" value="0.1" />
         <entry key="..\:/Workspace/PrintDemoHaidingUsb/app/src/main/res/layout/activity_main.xml" value="0.3078125" />
         <entry key="..\:/Workspace/ePOS2_Printer/app/src/main/res/layout/activity_discovery.xml" value="0.21014492753623187" />
+        <entry key="..\:/Workspace/ePOS2_Printer/app/src/main/res/layout/activity_main.xml" value="0.3614583333333333" />
         <entry key="..\:/Workspace/ePOS2_Printer/app/src/main/res/layout/activity_setting.xml" value="0.17760416666666667" />
       </map>
     </option>
