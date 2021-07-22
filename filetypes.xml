@@ -8,6 +8,7 @@
       <mapping pattern="sale_list_fragment" type="PLAIN_TEXT" />
       <mapping ext="debug" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="crc" type="PLAIN_TEXT" />
