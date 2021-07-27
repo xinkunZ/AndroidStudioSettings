@@ -244,7 +244,10 @@
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/widget_number_view.xml" value="0.3067708333333333" />
         <entry key="..\:/Workspace/APP/temp/apos/app/src/main/res/layout/widget_toast.xml" value="0.2636752136752137" />
         <entry key="..\:/Workspace/APP/temp/apos/ktx-common/src/main/res/layout/widget_toast.xml" value="0.4444444444444444" />
+        <entry key="..\:/Workspace/APP/temp/apos/localserver/src/main/res/layout/activity_grant_permission.xml" value="0.1" />
+        <entry key="..\:/Workspace/APP/temp/apos/localserver/src/main/res/menu/main.xml" value="0.154296875" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/device-system/src/main/res/layout/device_system_state_fragment.xml" value="0.375" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/device-system/src/main/res/layout/fragment_sys_settings.xml" value="0.23203125" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/report/src/main/res/layout/fragment_product_inventory_query.xml" value="0.28351449275362317" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/report/src/main/res/layout/report_online_sale_fragment.xml" value="0.28351449275362317" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/applet_tran_detail_dialog.xml" value="0.2322623828647925" />
@@ -266,6 +269,7 @@
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/online_sale_list_item.xml" value="0.27109375" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/sale_list_fragment.xml" value="0.44166666666666665" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/sale_message_item.xml" value="0.1" />
+        <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/sell_out_manage_confirm.xml" value="0.27109375" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/sale/src/main/res/layout/tran_main_fragment.xml" value="0.5" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/store-busi/src/main/res/layout/direct_send_order_list_item.xml" value="0.1765625" />
         <entry key="..\:/Workspace/APP/temp/apos/modules/store-busi/src/main/res/layout/pg_recycle_order_edit_fragment.xml" value="0.375" />
