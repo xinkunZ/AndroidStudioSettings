@@ -110,9 +110,13 @@
           <option name="url" value="http://gitlab.hd123.com" />
           <option name="userName" value="zhangxinkun" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ditclear/BindingListAdapter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\WorkSpace" />
+    <option name="cloneParentDir" value="C:\WorkSpace\APP" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
