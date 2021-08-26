@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="capacity" />
       <item value="Elapsed Time" />
       <item value="run In Elapsed" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620808968924" />
+    <option name="lastTrimTime" value="1627292287252" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
@@ -14,5 +15,6 @@
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>

@@ -1,9 +1,12 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="ai_scale_activity" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="color_toggle_txt" type="PLAIN_TEXT" />
+      <mapping pattern="tran_list_fragment" type="PLAIN_TEXT" />
+      <mapping pattern="sale_list_fragment" type="PLAIN_TEXT" />
       <mapping ext="debug" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
