@@ -25,8 +25,8 @@
     <mask>*.jft</mask>
     <mask>*dialog.*</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.xml</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
-    <mask>*.xml</mask>
   </component>
 </application>
