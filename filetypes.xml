@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ai_scale_activity" type="AUTO_DETECTED" />
       <mapping pattern="mdb" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="color_toggle_txt" type="PLAIN_TEXT" />
       <mapping pattern="tran_list_fragment" type="PLAIN_TEXT" />
